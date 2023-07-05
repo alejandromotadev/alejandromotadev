@@ -12,6 +12,9 @@
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  <h2>
+    Check out my website ==> <a href="https://aamotadevportolofio.netlify.app/" target="_blank">here</a>
+  </h2>
 </div>
 
 ---
