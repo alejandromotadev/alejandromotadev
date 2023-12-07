@@ -19,14 +19,14 @@
 
 ---
 
-###About Me :
+### About Me :
 I am a Mobile developer from Mexico.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mota-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-aguilar-mota-644432243/)
 
 ---
 
-###Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
