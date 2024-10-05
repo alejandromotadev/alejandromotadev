@@ -20,7 +20,7 @@
 ---
 
 ### About Me :
-I am a Web && Mobile developer.
+I am a Software developer
 
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mota-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-aguilar-mota-644432243/)
 
